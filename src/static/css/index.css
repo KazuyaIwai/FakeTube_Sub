@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Youtube Sans";
+  src: url("../style/font-family/youtube-sans-cufonfonts/YouTubeSansRegular.otf");
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Youtube Sans', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
